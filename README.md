@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matin-Mubashir
-- 👀 I’m interested in HTML CSS JAVASCRIPT 
-- 🌱 I’m currently learning PYHOTN
+- 👀 I’m interested in HTML CSS JAVASCRIPT PYTHON 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me CONTACT: mubashirmatin@gmail.com
 
 <!---
